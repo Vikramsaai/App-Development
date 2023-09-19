@@ -1,0 +1,44 @@
+.signhead input {
+    display: block;
+    margin-bottom: 15px;
+  }
+  
+  .signhead {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    margin: auto;
+    /* text-align: center; */
+    /* background-color: aqua; */
+    padding: 20px;
+    align-items: center;
+    margin-top: 100px;
+  }
+  
+  .inputboxx {
+    height: 34px;
+    width: 300px;
+    border-width: 2px;
+    border-style: solid;
+    border-color: rgb(216, 207, 207);
+  }
+  
+  .signhead button {
+    height: 30px;
+    width: 303px;
+    margin-bottom: 10px;
+  }
+  .signhead h2 {
+    margin-bottom: 30px;
+    font-family: sans-serif;
+    font-weight: 10px;
+  }
+  .signhead button {
+    border: none;
+    color: white;
+    background-color: rgb(42, 184, 241);
+    margin: 10px;
+    height: 35px;
+    font-weight: bold;
+    font-size: 17px;
+  }

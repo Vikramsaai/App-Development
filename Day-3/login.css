@@ -1,0 +1,35 @@
+.loginhead input {
+    display: block;
+    margin-bottom: 15px;
+  }
+  
+  .loginhead {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    margin: auto;
+    padding: 20px;
+    align-items: center;
+    margin-top: 100px;
+  }
+  
+  .inputbox {
+    height: 32px;
+    width: 300px;
+    border-width: 2px;
+    border-style: solid;
+    border-color: rgb(216, 207, 207);
+  }
+  
+  
+  .loginhead button {
+    border: none;
+    color: white;
+    background-color: rgb(42, 184, 241);
+    margin: 10px;
+    height: 35px;
+    font-weight: bold;
+    font-size: 17px;
+  
+    width: 310px;
+  }
