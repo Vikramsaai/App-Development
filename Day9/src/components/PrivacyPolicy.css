@@ -1,0 +1,12 @@
+.policy-header , .terms-header , .faq-header{
+    text-align: left;
+}
+.policy-body , .terms-body , .faq-question{
+    text-align: left;
+}
+
+.privacy-policy , .terms-and-conditions , .faq{
+    padding-left: 50px;
+    padding-right: 50px;
+    padding-top: 70px;
+}
